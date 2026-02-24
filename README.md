@@ -117,8 +117,8 @@ currently   : Leading engineering teams & crafting elegant software
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehan-sara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-sara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehan-sara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan-sara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -130,24 +130,24 @@ currently   : Leading engineering teams & crafting elegant software
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehan-sara&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shehan-sara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=-1" />
 </div>
 
 ---
 
-## � Contribution Snake
+## ⚡ Slithering Through Commits
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shehan-sara/shehan-sara/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shehan-sara/shehan-sara/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/shehan-sara/shehan-sara/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shehan-sara/shehan-sara/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shehan-sara/shehan-sara/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shehan-sara/shehan-sara/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
-## �🔥 Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-sara&theme=tokyonight&hide_border=true" alt="shehan-sara" />
