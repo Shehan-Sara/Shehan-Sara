@@ -34,8 +34,7 @@ passion     : Building scalable systems & inspiring developers
 email       : sarawalkthrough@gmail.com
 youtube     : https://youtube.com/@slwalkthrough
 currently   : Leading engineering teams & crafting elegant software
-` + '``' + @'
-`
+```
 
 ---
 
